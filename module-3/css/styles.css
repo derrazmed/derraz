@@ -21,9 +21,10 @@ a{
     text-decoration: none;
     color: black;
 }
-nav{
+header{
     border-bottom: 1px solid black;
     margin-bottom: 20px;
+    background-color: rgb(153 153 153);
 }
 .row{
     width: 100%;
@@ -42,4 +43,7 @@ h1 {
     color: white;
     display: flex;
     align-items: center;
+}
+.cl{
+    background-color: rgb(153 153 153);
 }
